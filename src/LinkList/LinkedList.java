@@ -1,3 +1,4 @@
+package LinkList;
 public class LinkedList<T> {
     private Node<T> head;
 

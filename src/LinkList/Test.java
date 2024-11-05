@@ -1,3 +1,4 @@
+package LinkList;
 public class Test {
     public static void main(String[] args) {
         StudentMS sms = new StudentMS();

@@ -1,3 +1,4 @@
+package LinkList;
 public class StudentMS {
     private LinkedList<Student> list;
 
